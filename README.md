@@ -1,4 +1,4 @@
-Debugging  **Google Search Suggestions** from delete-todo repo
+Debugging  **Google Search Suggestions** from g-search repo
 
 ### Refer to the image below:
 
